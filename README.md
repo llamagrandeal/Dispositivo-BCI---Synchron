@@ -1,2 +1,2 @@
-# Dispositivo-BCI---Synchron
+# Dispositivo-BCI-Synchron
 Dispositivo de hardwhare
